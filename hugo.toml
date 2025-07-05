@@ -3,3 +3,19 @@ languageCode = 'en-us'
 title = 'Lutheria'
 theme = 'ananke'
 sectionPagesMenu = "main"
+#pagination.pagerSize=1
+
+[params]
+# site_logo = "img/planos_small.png"
+featured_image = "img/planos.png"
+omit_header_text = true
+background_color_class = "bg-light-blue"
+cover_dimming_class = "bg-black-20"
+body_classes = "avenir bg-near-white"
+# text_color = "green"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        enableDefault = true
