@@ -1,9 +1,9 @@
 +++
-#menus = 'main'
-title = 'About'
+menus = 'main'
+title = 'Acerca de'
 +++
 
+Sitio dedicado a coleccionar planos de instrumentos de cuerda tanto acústicos como eléctricos.
 
-Hola working on you.
+Notas de luthería, basadas en la empírica y el estudio. Archivo de los instrumentos que tengo el placer de construir o manipular.
 
-Weona tu podis.
